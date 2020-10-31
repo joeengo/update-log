@@ -1,0 +1,12 @@
+V1.1.00
+[+] Added 3 More Teleports.
+[+] Added Local Tab. (Noclip, CTRL + CLICK TP, Jump Power ect...)
+[+] Added Redeem All Codes.
+[+] LeftAlt To Close The GUI
+[-] Removed Walkspeed. (Didn't Work)
+
+V1.1.04
+[BUG] Fixed Issue of all functions not working
+
+V1.1.05
+[-] Removed CTRL + Click TP For Bug Reasons.
